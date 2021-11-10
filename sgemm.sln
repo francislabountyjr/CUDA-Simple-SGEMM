@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sgemm", "sgemm\sgemm.vcxproj", "{75E3EAF9-B761-4A93-9F23-CE6DF6AAF4D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E3EAF9-B761-4A93-9F23-CE6DF6AAF4D4}.Debug|x64.ActiveCfg = Debug|x64
+		{75E3EAF9-B761-4A93-9F23-CE6DF6AAF4D4}.Debug|x64.Build.0 = Debug|x64
+		{75E3EAF9-B761-4A93-9F23-CE6DF6AAF4D4}.Release|x64.ActiveCfg = Release|x64
+		{75E3EAF9-B761-4A93-9F23-CE6DF6AAF4D4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76001B25-FC2A-42CF-B084-50C8C15F33E4}
+	EndGlobalSection
+EndGlobal
